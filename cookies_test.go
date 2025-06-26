@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/volatiletech/authboss/v3"
+	"github.com/aarondl/authboss/v3"
 )
 
 func TestGetCookieState(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/volatiletech/authboss-clientstate
+module github.com/aarondl/authboss-clientstate
 
 go 1.19
 
@@ -6,7 +6,7 @@ require (
 	github.com/friendsofgo/errors v0.9.2
 	github.com/gorilla/securecookie v1.1.1
 	github.com/gorilla/sessions v1.2.1
-	github.com/volatiletech/authboss/v3 v3.2.1
+	github.com/aarondl/authboss/v3 v3.2.1
 )
 
 require (

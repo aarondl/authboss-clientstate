@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/gorilla/sessions"
-	"github.com/volatiletech/authboss/v3"
+	"github.com/aarondl/authboss/v3"
 )
 
 func TestExpiry(t *testing.T) {
